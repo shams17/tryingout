@@ -1,11 +1,10 @@
 #include<iostream>
+#include<string.h>
 using namespace std;
 int main()
 {
 cout<<"hello world"<<endl;
-<<<<<<< Updated upstream
-=======
-cout<<"first c++ program"<<endl;
-cout<<"starting out with c++"<<endl;
->>>>>>> Stashed changes
+cout<<"stashing changes"<<endl;
+cout<<"merging to fetchbranch"<<endl;
 }
+
