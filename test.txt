@@ -1,2 +1,3 @@
 using my github account as remote repository
-adding second line
+removed second line
+adding second commit
