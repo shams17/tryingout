@@ -3,4 +3,9 @@ using namespace std;
 int main()
 {
 cout<<"hello world"<<endl;
+<<<<<<< Updated upstream
+=======
+cout<<"first c++ program"<<endl;
+cout<<"starting out with c++"<<endl;
+>>>>>>> Stashed changes
 }
