@@ -1,1 +1,2 @@
 trying out fetch command by creating a new branch
+added a second line to this file
