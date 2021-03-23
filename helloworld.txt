@@ -1,10 +1,12 @@
 #include<iostream>
-#include<string.h>
+#include<string1.h>
+#include<iomanip.h>
 using namespace std;
 int main()
 {
 cout<<"hello world"<<endl;
 cout<<"stashing changes"<<endl;
 cout<<"merging to fetchbranch"<<endl;
+cout<<"causing merge conflict"<<endl;
 }
 
